@@ -1,0 +1,4 @@
+Nice library for RPLidar communication by Roboticia
+-> In the rplidar.py file, you can see low level commands being processed.
+-> This could be handy someday
+-> Examples are also nicer than ADAFruit library?
